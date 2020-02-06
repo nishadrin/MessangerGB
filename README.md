@@ -1,2 +1,1 @@
-# MessangerGB
-Messanger
+# Client-server_python_apps
