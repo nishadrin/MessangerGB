@@ -23,6 +23,9 @@ logger.setLevel(logging.DEBUG)
 
 class Log():
 
+    def __init__(self):
+        pass
+
     def __call__(self, func):
 
         @wraps(func)
